@@ -1,0 +1,10 @@
+C:\Users\Raiane\Desktop\TreinaWeb\F#\AvancandoNaLinguagem\obj\Debug\netcoreapp2.1\AvancandoNaLinguagem.fsprojAssemblyReference.cache
+C:\Users\Raiane\Desktop\TreinaWeb\F#\AvancandoNaLinguagem\obj\Debug\netcoreapp2.1\AvancandoNaLinguagem.AssemblyInfoInputs.cache
+C:\Users\Raiane\Desktop\TreinaWeb\F#\AvancandoNaLinguagem\obj\Debug\netcoreapp2.1\AvancandoNaLinguagem.AssemblyInfo.fs
+C:\Users\Raiane\Desktop\TreinaWeb\F#\AvancandoNaLinguagem\bin\Debug\netcoreapp2.1\AvancandoNaLinguagem.deps.json
+C:\Users\Raiane\Desktop\TreinaWeb\F#\AvancandoNaLinguagem\bin\Debug\netcoreapp2.1\AvancandoNaLinguagem.runtimeconfig.json
+C:\Users\Raiane\Desktop\TreinaWeb\F#\AvancandoNaLinguagem\bin\Debug\netcoreapp2.1\AvancandoNaLinguagem.runtimeconfig.dev.json
+C:\Users\Raiane\Desktop\TreinaWeb\F#\AvancandoNaLinguagem\bin\Debug\netcoreapp2.1\AvancandoNaLinguagem.dll
+C:\Users\Raiane\Desktop\TreinaWeb\F#\AvancandoNaLinguagem\bin\Debug\netcoreapp2.1\AvancandoNaLinguagem.pdb
+C:\Users\Raiane\Desktop\TreinaWeb\F#\AvancandoNaLinguagem\obj\Debug\netcoreapp2.1\AvancandoNaLinguagem.dll
+C:\Users\Raiane\Desktop\TreinaWeb\F#\AvancandoNaLinguagem\obj\Debug\netcoreapp2.1\AvancandoNaLinguagem.pdb
